@@ -26,4 +26,8 @@ My goal with coding is to help others. I enjoy being able to create something th
 
 ![Capture](https://user-images.githubusercontent.com/61087691/186590199-f08bcf09-6bc4-4a56-afd3-11cc573f8dd3.PNG)
 
+ ##Links
+ https://laraveldoccure.herokuapp.com/cms/admin/login
+ https://moderna-2.herokuapp.com/
+ http://laravel-matjari1.herokuapp.com/ar
 
