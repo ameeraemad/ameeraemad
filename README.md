@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm ameera Aljamal</h1>
 <h3 align="center">A Backend developer from Palestine</h3>
 
+I am a php(laravel) developer with 3 years of experience.
 
 I started in 2018 with HTML and CSS, making simple static web pages and expanding my knowledge over time. Around 2018/2019, I started to learn how to use JavaScript to create dynamic web apps. During this time I also learned a php. In 2020 I found PHP Laravel, and started using it to create Web applications.
 
@@ -20,4 +21,5 @@ My goal with coding is to help others. I enjoy being able to create something th
 ✅ HTML,CSS,JS,JQuery,Bootstrap.<br>
 ✅ MySQL PHPMyAdmin .<br>
 ✅ workbench .<br>
+✅ Git.<br>
 ✅ GitHub.<br>
