@@ -17,10 +17,10 @@ My goal with coding is to help others. I enjoy being able to create something th
  
 
 ### My following services:
-✅ PHP-Laravel Framework<br>
 ✅ HTML,CSS,JS,JQuery,Bootstrap.<br>
+✅ PHP Laravel Framework <br>
 ✅ MySQL PHPMyAdmin .<br>
-✅ workbench .<br>
+✅ workbench.<br>
 ✅ Git.<br>
 ✅ GitHub.<br>
 
