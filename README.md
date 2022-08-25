@@ -24,7 +24,10 @@ My goal with coding is to help others. I enjoy being able to create something th
 ✅ Git.<br>
 ✅ GitHub.<br>
 
-<h3 align="left">Skills  Language  </h3>
-![Capture](https://user-images.githubusercontent.com/61087691/186590006-e978778a-5777-4293-ae77-530213f9e9c7.PNG)
+<h3 align="left">Skills  Language 
+
+</h3>
+
+![Capture](https://user-images.githubusercontent.com/61087691/186590199-f08bcf09-6bc4-4a56-afd3-11cc573f8dd3.PNG)
 
 
