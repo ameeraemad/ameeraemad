@@ -8,7 +8,9 @@ I started in 2018 with HTML and CSS, making simple static web pages and expandin
 
 I was responsible for a graduation project "Web Application for Online Store Creation" on backends.I made a web project to manage patients' appointments, doctors and bills under the name "doccure System".
 
-<p align="center"><a href="https://twitter.com/ameeraAljamal1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/ameera-aljamal-897b1b234/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/ameeraAljamal1/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+<h2 align="left">Connect with me:</h2>
+
+<p align="left"><a href="https://twitter.com/ameeraAljamal1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/ameera-aljamal-897b1b234/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/ameeraAljamal1/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 
 
 <h3 align="left">Languages and Tools:</h3>
