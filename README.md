@@ -23,3 +23,8 @@ My goal with coding is to help others. I enjoy being able to create something th
 ✅ workbench .<br>
 ✅ Git.<br>
 ✅ GitHub.<br>
+
+<h3 align="left">Skills  Language  </h3>
+![Capture](https://user-images.githubusercontent.com/61087691/186590006-e978778a-5777-4293-ae77-530213f9e9c7.PNG)
+
+
