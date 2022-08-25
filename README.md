@@ -3,11 +3,9 @@
 
 I am a php(laravel) developer with 3 years of experience.
 
-I started in 2018 with HTML and CSS, making simple static web pages and expanding my knowledge over time. Around 2018/2019, I started to learn how to use JavaScript to create dynamic web apps. During this time I also learned a php. In 2020 I found PHP Laravel, and started using it to create Web applications.
+I started in 2018 with HTML and CSS, making simple static web pages and expanding my knowledge over time. Around 2018/2019, I started to learn how to use JavaScript to create web apps. During this time I also learned a php. In 2020 I found PHP Laravel, and started using it to create Web applications.
 
 I was responsible for a graduation project "Web Application for Online Store Creation" on backends.I made a web project to manage patients' appointments, doctors and bills under the name "doccure System".
-
-My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier. I take criticism well, and use suggestions to improve the product. The wants and/or needs of the userbase are always my priority, because without a supportive userbase, the product has no real purpose.
 
 <p align="center"><a href="https://twitter.com/ameeraAljamal1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/ameera-aljamal-897b1b234/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/ameeraAljamal1/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 
