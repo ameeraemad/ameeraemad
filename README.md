@@ -59,11 +59,11 @@ A Backend web developer, I have excellent analytical and design capabilities wit
    -clear code.<br>
    -[Link](https://laraveldoccure.herokuapp.com/cms/admin/login)
    
- 2- A website for creating online stores || 2022
+ 2- A website for creating online stores || 2022 <br>
     A project aimed at attracting customers and merchants, as well as those interested in marketing their business on social media pages.
    #### Features
-    -Laravel user roles and permissions.<br>
-    -There are three control panels (admin, merchant, employee).<br>
-    -easy to use.<br>
+   -Laravel user roles and permissions.<br>
+   -There are three control panels (admin, merchant, employee).<br>
+   -easy to use.<br>
  
 
