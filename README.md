@@ -59,11 +59,25 @@ A Backend web developer, I have excellent analytical and design capabilities wit
    -clear code.<br>
    -[Link](https://laraveldoccure.herokuapp.com/cms/admin/login)
    
- 2- A website for creating online stores || 2022 <br>
+   <hr>
+   
+ 2- Website for School System || 2021
+   It is a website for the school administration through which students and teachers can create and save their data and use it in a seamless manner.
+   #### Features
+   -easy to use <br>
+   -Two special control panels (admin, students) <br>
+   -View and create student data <br>
+   -clear code <br>
+   -[Link](https://github.com/ameeraemad/school-system-laravel-master) <br>
+   
+   <hr>
+  
+ 3- A website for creating online stores || 2022 <br>
     A project aimed at attracting customers and merchants, as well as those interested in marketing their business on social media pages.
    #### Features
    -Laravel user roles and permissions.<br>
    -There are three control panels (admin, merchant, employee).<br>
    -easy to use.<br>
- 
+   -clear code <br>
+
 
