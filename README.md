@@ -21,7 +21,7 @@ A Backend web developer, I have excellent analytical and design capabilities wit
 -Arabic: Mother Language.<br>
 -English: Good.
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technology and Tools:</h3>
 
 ##### Software Tools
 ![](https://img.shields.io/badge/VSCode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=blue)
