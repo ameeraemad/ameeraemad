@@ -4,9 +4,7 @@
 
 A Backend web developer, I have excellent analytical and design capabilities with extreme attention to detail and overall quality of the end result, my goal is to continue to provide high quality development services and to be a part of successful projects.
 
-- Ask me about **Laravel**.
-
-- How to reach me [Ameera (emad) Aljamal](https://www.linkedin.com/in/ameera-aljamal-897b1b234/)
+<hr>
 
 <h2 align="left">🌐 Connect with me:</h2>
 
@@ -44,7 +42,15 @@ A Backend web developer, I have excellent analytical and design capabilities wit
 ![](https://img.shields.io/badge/Heroku-informational?style=for-the-badge&logo=heroku&logoColor=white&color=blueviolet)
 
 
-![Capture](https://user-images.githubusercontent.com/61087691/186590199-f08bcf09-6bc4-4a56-afd3-11cc573f8dd3.PNG)
+### Github State
+<p>
+  <a href="https://github.com/gamussa?tab=repositories">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=ameeraemad&show_icons=true&theme=tokyonight&locale=en&layout=compact"
+    />
+  </a>
+</p>
 
 ## 🚀 Projects
 
