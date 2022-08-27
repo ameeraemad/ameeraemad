@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ameera Aljamal</h1>
-<h3 align="center">A backend Developer -Laravel-</h3>
+<h1 align="center">Hi 👋, I'm Ameera Aljamal</h1>
+<h3 align="center">A Laravel backend Developer </h3>
 
 
 I am a php(laravel) developer with 3 years of experience.
