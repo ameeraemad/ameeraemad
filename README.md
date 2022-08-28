@@ -14,11 +14,6 @@ A Backend web developer, I have excellent analytical and design capabilities wit
 ✅ Front End  => HTML, CSS, Javascript, jQuery, Bootstrap. <br>
 ✅ Back End   => MySql(workbench & PhpMyAdmin), Php Laravel.<br>
 
-### ✍️ Languages
- 
--Arabic: Mother Language.<br>
--English: Good.
-
 <h3 align="left">Technology and Tools:</h3>
 
 ##### Software Tools
