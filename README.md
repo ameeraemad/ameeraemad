@@ -3,6 +3,9 @@
 
 
 A Backend web developer, I have excellent analytical and design capabilities with extreme attention to detail and overall quality of the end result, my goal is to continue to provide high quality development services and to be a part of successful projects.
+I have skills to provide you with the highest possible quality of work, I guarantee you will be satisfied with my work. Good communication between us is a must and I will make sure your requirements are understood and accomplished in time and with excellent quality.
+Thank you for your time, I appreciate and look forward to your contact, starting work immediately.
+Email 📪: ameera.aljamal1@gmail.com.
 
 <hr>
 
