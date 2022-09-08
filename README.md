@@ -17,7 +17,7 @@ Email 📪: ameera.aljamal1@gmail.com.
  
  ### 🛠 Skills
 ✅ Front End  => HTML, CSS, Javascript, jQuery, Bootstrap. <br>
-✅ Back End   => MySql(workbench & PhpMyAdmin), Php Laravel.<br>
+✅ Back End   => MySql, Php ,Laravel Framework.<br>
 
 <h3 align="left">Technology and Tools:</h3>
 
