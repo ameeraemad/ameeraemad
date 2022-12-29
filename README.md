@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ameera Aljamal</h1>
-<h3 align="center">A Laravel backend Developer </h3>
+<h3 align="center">A Backend & Frontend Developer & UX/UI </h3>
 
 
 A Backend web developer, I have excellent analytical and design capabilities with extreme attention to detail and overall quality of the end result, my goal is to continue to provide high quality development services and to be a part of successful projects.<br>
